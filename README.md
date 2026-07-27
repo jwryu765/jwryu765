@@ -88,3 +88,15 @@
 </p>
 
 <br/>
+
+## GITHUB ACTIVITY
+
+<p align="center">
+  <img
+    width="100%"
+    src="./profile-3d-contrib/profile-night-view.svg"
+    alt="Ryu Jaewook's 3D GitHub contribution graph"
+  />
+</p>
+
+<br/>
