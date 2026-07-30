@@ -1,7 +1,7 @@
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,45:1E3A8A,100:0EA5E9&text=RYU%20JAEWOOK&fontColor=FFFFFF&fontSize=50&fontAlignY=37&desc=JUNIOR%20IoT%20SYSTEM%20DEVELOPER&descAlignY=56&descSize=17&animation=fadeIn&section=header"
+    src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,45:1E3A8A,100:0EA5E9&text=RYU%20JAEWOOK&fontColor=FFFFFF&fontSize=50&fontAlignY=37&desc=JUNIOR%20C%23%2F.NET%20APPLICATION%20DEVELOPER&descAlignY=56&descSize=17&animation=fadeIn&section=header"
     alt="RYU JAEWOOK | Junior C#/.NET Application Developer"
   />
 </p>
