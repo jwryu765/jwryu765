@@ -1,8 +1,8 @@
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,45:1E3A8A,100:0EA5E9&text=RYU%20JAEWOOK&fontColor=FFFFFF&fontSize=50&fontAlignY=37&desc=JUNIOR%20C%23%2F.NET%20APPLICATION%20DEVELOPER&descAlignY=56&descSize=17&animation=fadeIn&section=header"
-    alt="RYU JAEWOOK | Junior C#/.NET Application Developer"
+    src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,45:1E3A8A,100:0EA5E9&text=RYU%20JAEWOOK&fontColor=FFFFFF&fontSize=50&fontAlignY=37&desc=C%23%2F.NET%20APPLICATION%20DEVELOPER&descAlignY=56&descSize=17&animation=fadeIn&section=header"
+    alt="RYU JAEWOOK | C#/.NET Application Developer"
   />
 </p>
 <br/>
@@ -12,7 +12,7 @@
 | | |
 |:---|:---|
 | **이름** | 류재욱 · Ryu Jaewook |
-| **직무** | Junior C#/.NET Application Developer |
+| **직무** | C#/.NET Application Developer |
 | **이메일** | [jhryu7658@gmail.com](mailto:jhryu7658@gmail.com) |
 | **교육** | 윈도우 플랫폼 기반 IoT 시스템 개발 과정 · 1,200시간 |
 
@@ -77,10 +77,10 @@
 
 | Project | What I Built | Problem Solving | Tech |
 |:---|:---|:---|:---|
-| [**Word-Quiz**](https://github.com/jwryu765/iot-mini-project1-2026) | 사용자별 학습 기록과 제한 시간 퀴즈를 제공하는 영단어 학습 프로그램 | 비동기 입력으로 답안 입력 중에도 타이머가 동작하도록 구현하고, 부분 갱신으로 화면 깜빡임 개선 | C++, MySQL |
-| [**CCTV Monitoring**](https://github.com/jwryu765/iot-dotnet-2026/blob/main/TOYPROJECT1.md) | 공공데이터의 교통정보와 실시간 CCTV 영상을 한 화면에서 조회하는 데스크톱 시스템 | LibVLCSharp로 스트리밍 영상을 재생하고 ASP.NET Core 서버에서 외부 API 데이터 가공 | C#, WPF, ASP.NET Core |
-| [**ROS2 Control System**](https://github.com/jwryu765/iot-ROS2-2026) | 센서 데이터 수집부터 조건 판단과 장치 제어까지 연결한 제어 시스템 | Arduino 시리얼 통신과 ROS2 토픽을 연결하는 기능별 데이터 전달 구조 설계 | ROS2, Python, Arduino |
-| [**AI Vision Inspection**](https://github.com/jwryu765/iot-dotnet-2026/blob/main/TOYPROJECT4.md) | 영상 객체 인식 결과를 다른 시스템에 전달하는 비전검사 기능 | YOLO·OpenCV의 추론 결과를 FastAPI와 MQTT를 통해 전달 | Python, YOLO, MQTT |
+| [**CCTV Monitoring**](https://github.com/jwryu765/iot-dotnet-2026/blob/main/TOYPROJECT1.md) | 공공데이터 CCTV·지도·교통정보를 통합한 데스크톱 모니터링 시스템 | LibVLCSharp로 HLS 영상을 재생하고 WebView2 지도와 ASP.NET Core API를 연동해 외부 데이터를 가공·표시 | C#, WPF, ASP.NET Core |
+| [**Book Rental MVVM**](https://github.com/jwryu765/iot-dotnet-2026/blob/main/TOYPROJECT2.md) | 도서·회원·대여 데이터를 관리하는 WPF CRUD 애플리케이션 | CommunityToolkit.Mvvm 기반으로 View와 로직을 분리하고 양방향 바인딩·Command·입력 검증·MySQL CRUD 구현 | C#, WPF, MVVM, MySQL |
+| [**Smart Factory Digital Twin**](https://github.com/jwryu765/iot-dotnet-2026/blob/main/TOYPROJECT5.md) | 컨베이어 센싱 결과를 수집해 디지털 트윈으로 시각화하는 공정관리 시스템 | Arduino와 Raspberry Pi의 시리얼 데이터를 MQTT로 중계하고 Unity 화면에 JSON 상태를 실시간 반영 | C#, Unity, MQTT, Arduino |
+| [**Word-Quiz**](https://github.com/jwryu765/iot-mini-project1-2026) | 사용자별 학습 기록과 제한 시간 퀴즈를 제공하는 영단어 학습 프로그램 | 키 입력을 기다리는 동안 타이머가 멈추는 문제를 비블로킹 입력으로 해결하고, 입력 줄만 갱신해 화면 깜빡임 최소화 | C++, MySQL |
 
 <p align="right">
   <a href="https://github.com/jwryu765?tab=repositories"><b>View all repositories →</b></a>
